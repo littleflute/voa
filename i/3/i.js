@@ -1,11 +1,11 @@
 //js1: _loadIssue3 
-var s= "v0.0. 55 - ";
+var s= "v0.0. 111 - ";
 s += "<a target='_blank' href='https://github.com/littleflute/voa/issues/3'"
 s += " style='color:lightblue;'";		s +=">"; s += "i3* ";
 s += "<a target='_blank' href='https://github.com/littleflute/voa/edit/master/i/3/i.js'"
 s += " style='color:blue;'";		s +=">"; s += "i.js* ";
 s += "<a target='_blank' href='https://littleflute.github.io/voa/i/3/i.js'"
-s += " style='color:green;'";		s +=">"; s += "c1.js ";
+s += " style='color:green;'";		s +=">"; s += "i.js ";
 
 var _pv = bl$("id_div_4_voa_plx");
 
