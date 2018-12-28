@@ -1,5 +1,5 @@
 //js1: _loadIssue3 
-var s= "v0.0. 111 - ";
+var s= "v0.0. 112 - ";
 s += "<a target='_blank' href='https://github.com/littleflute/voa/issues/3'"
 s += " style='color:lightblue;'";		s +=">"; s += "i3* ";
 s += "<a target='_blank' href='https://github.com/littleflute/voa/edit/master/i/3/i.js'"
@@ -9,7 +9,7 @@ s += " style='color:green;'";		s +=">"; s += "i.js ";
 
 var _pv = bl$("id_div_4_voa_plx");
 
-var d = blo0.blMDiv( _pv ,"id_mdiv_loadIssue3", s,           300,100,500,400, blGrey[3]);
+var d = blo0.blDiv( _pv ,"id_mdiv_loadIssue3", s,  blGrey[3]);
 if(!d.v){
  d.v = blo0.blDiv(d,d.id+"v","v:0.2",blGrey[0]);    
   function _Cs (o) {        
