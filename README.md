@@ -1,4 +1,4 @@
-### [v0.0.4](https://github.com/littleflute/voa/edit/master/README.md) [me](https://littleflute.github.io/voa/)
+### [v0.0.5](https://github.com/littleflute/voa/edit/master/README.md) [me](https://littleflute.github.io/voa/)
 <button id = "id_btn_4_voa_plx">+plx</button>
 
 ## [datas/NewsWords](datas/NewsWords)
@@ -11,7 +11,7 @@
     var _plx = bl$("id_btn_4_voa_plx");
     _plx.onclick = function(){
       if(!_plx.v){
-        _plx.v = blo0.blMDiv(document.body, "id_div_4_voa_plx" , "voaPlx: v0.0.1", 110,50,250,50, blColor[3]);   
+        _plx.v = blo0.blMDiv(document.body, "id_div_4_voa_plx" , "voaPlx: v0.0.2", 210,50,250,50, blColor[3]);   
         function _loadIssue (o) {                             eval(o.body);	             }
         var url = "https://api.github.com/repos/littleflute/voa/issues/3";
         w3.getHttpObject(url, _loadIssue );
