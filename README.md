@@ -1,6 +1,7 @@
-### [v0.0.11](https://github.com/littleflute/voa/edit/master/README.md) [me](https://littleflute.github.io/voa/)
+### [v0.0.21](https://github.com/littleflute/voa/edit/master/README.md) [me](https://littleflute.github.io/voa/)
 <button id = "id_btn_4_voa_plx">+plx</button>
 ## [【english】](https://littleflute.github.io/english)
+## [【NEWS_WORDS】](https://littleflute.github.io/NEWS_WORDS/)
 ## [【PEOPLE-IN-AMERICA】](https://littleflute.github.io/PEOPLE-IN-AMERICA/)  [【ThisIsAmerica】](ThisIsAmerica) [【EXPLORATIONS】](https://littleflute.github.io/EXPLORATIONS/)
 
 ## [datas/NewsWords](datas/NewsWords)
